@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 HealthSaarthi
+# 🏥 HealthX
 
 ### Your AI-Powered Healthcare Companion for Every Indian 🇮🇳
 
@@ -14,7 +14,7 @@
 
 **9 Powerful Features. 1 Unified Platform. ∞ Lives Impacted.**
 
-[Quick Start](#-quick-start) · [Features](#-core-features) · [Tech Stack](#-technology-stack) · [Team](#-team)
+[Quick Start](#-quick-start) · [Features](#-core-features) · [Tech Stack](#-technology-stack)
 
 </div>
 
